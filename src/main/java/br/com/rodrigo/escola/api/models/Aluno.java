@@ -1,6 +1,5 @@
 package br.com.rodrigo.escola.api.models;
 
-import java.time.LocalDate;
 import java.util.List;
 
 import javax.persistence.Entity;
